@@ -2,5 +2,7 @@
   "name": "tfortechnology",
   "app_id": "f4e3cfc2",
   "type": "ionic-angular",
-  "integrations": {}
+  "integrations": {
+    "cordova": {}
+  }
 }
